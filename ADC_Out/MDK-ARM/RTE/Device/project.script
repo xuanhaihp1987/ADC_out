@@ -1,0 +1,4 @@
+load STM32F051K6Tx 
+project name STCubeGenerated 
+project toolchain "MDK-ARM V5" 
+project path "C:\Users\phamx\Google Drive (data.xuanhaihp1987@gmail.com)\MY PROJECT\BDC\TONG HOP DU AN\2022\THANG 3\ADC_Out\MDK-ARM\RTE\Device\STM32F051K6Tx\" 
